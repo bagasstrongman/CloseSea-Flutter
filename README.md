@@ -1,5 +1,9 @@
 # flutter_closesea_nft
 
+| Onboarding Page     | Home Page      |  
+| ------------- | -------------    | 
+| [![Screenshot-1645055006.png](https://i.postimg.cc/rsSxhLFn/Screenshot-1645055006.png)](https://postimg.cc/5Q2X0TzL) |  [![Screenshot-1645055026.png](https://i.postimg.cc/HkS5vzdg/Screenshot-1645055026.png)](https://postimg.cc/3kvddgkS) |
+
 A new Flutter project.
 
 ## Getting Started
